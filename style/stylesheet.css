@@ -1,0 +1,43 @@
+body {
+  background-color: beige;
+  color: rgba(2, 11, 54, 0.562);
+}
+
+img {
+  max-width: 500px;
+  max-height: auto;
+}
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  margin: 0 auto;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+thead {
+  background-color: lightgray;
+}
+
+table#outdoorsy {
+  background-color: darkgray;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
